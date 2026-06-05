@@ -11,7 +11,7 @@ A JavaScript is an interpreted programming language, it is used to create intera
 ## 3. Name three problems Git & GitHub solve?
 
 * Track changes in the code.
-* Make it for a people working on same projects.
+* Make it easier for people working on the same projects.
 * Store and share code online.
 
 ## 4. What happens when you `fork` a repository?
